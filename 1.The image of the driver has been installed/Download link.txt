@@ -1,8 +1,0 @@
-Download Link£º
-https://drive.google.com/open?id=1NORBdnOe65nLjgkef1ZvTvotF1KKrot2
-
-
-Username£ºpi
-Password£ºyahboom
-
-This system image has been installed with a 3.5-inch screen driver. After burning the system, you can directly light the 3.5-inch screen on the Raspberry Pi. The SSH service has been turned on and can also be used with a putty remote connection.
